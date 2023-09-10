@@ -15,4 +15,4 @@ Tech : Python , pygame , Tkinter
 
 Usage : 
 
-Run app.main from src folder
+Run main.py from src folder
