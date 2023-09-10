@@ -12,3 +12,7 @@ Sorting Algroithms:
 
 
 Tech : Python , pygame , Tkinter
+
+Usage : 
+
+Run app.main from src folder
