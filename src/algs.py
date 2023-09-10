@@ -7,5 +7,6 @@ algorithmsDict = {'insertion'       : insertionSort,
                   'merge'           : mergeSort,
                   'quick'           : quickSort,
                   'heap'            : heapSort,
-                  'binary insertion': binaryinsertionSort}
+                  'binary insertion': binaryinsertionSort,
+}
 
